@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 关于我 | About Me
 
-你好！我是在读的计算机科学学生（HDU）。
+你好！我是 HDU 在读的计算机科学学生。
 
 Hi! I'm a CS student at HDU.
 
