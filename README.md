@@ -17,7 +17,7 @@ Hi! I'm a CS student at HDU.
 
 ## 🛠️ Tech Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=rust,java,python,git,jujutsu,nushell,linux,docker,vscode,zellij)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=rust,java,python,git,linux,docker,vscode,zellij)](https://skillicons.dev)
 
 ---
 
