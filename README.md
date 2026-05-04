@@ -25,8 +25,6 @@ Hi! I'm a CS student at HDU.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aster-amellus&theme=radical&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aster-amellus&theme=radical&no-bg=true&no-frame=true&column=6)
-
 ---
 
 ## 🔗 Contact
