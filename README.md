@@ -23,10 +23,6 @@ Hi! I'm a CS student at HDU.
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aster-amellus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aster-amellus&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aster-amellus&theme=radical&hide_border=true)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aster-amellus&theme=radical&no-bg=true&no-frame=true&column=6)
