@@ -10,7 +10,7 @@ Hi! I'm a CS student at HDU.
 
 ## 🛠️ Tech Stack
 
-[![Tech stack](https://skillicons.dev/icons?i=rust,cpp,triton,mlir,arch,java,python,git,linux)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=rust,cpp,llvm,arch,java,python,git,linux)](https://skillicons.dev)
 
 ---
 
