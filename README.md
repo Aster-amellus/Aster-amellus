@@ -2,7 +2,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 Hi! I'm a CS student at HDU.
 
